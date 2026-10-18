@@ -2,7 +2,7 @@
 
 An interactive data visualization dashboard designed to analyze fruit sales, explore product performance, and understand inventory trends to support data-driven business decisions.
 
-## Short Description / Purpose
+## Short Description 
 
 The **Fruit Sales & Inventory Analysis Dashboard** is a data analytics project that presents sales and inventory information in a clear, visual format. It helps users explore fruit-wise sales performance, identify sales patterns, and understand inventory-related trends. The dashboard aims to simplify data analysis and support better business planning and inventory management.
 
