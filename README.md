@@ -52,8 +52,9 @@ Fruit Sales & Inventory Analysis Dashboard: https://github.com/joyaljoseph-oss/F
 
 An interactive data visualization dashboard designed to analyze fruit sales, explore product performance, and understand inventory trends to support data-driven business decisions.
 
-👨‍💻 Author
+
+##👨‍💻 Author
 Joyal Joseph
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python |
+Aspiring Data Analyst | Power BI | SQL | Excel | Python 
 
